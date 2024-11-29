@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kkeddy-ux
+- 👋 Hi, I’m Frank
 - 👀 I’m interested in R and Python for Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science projects 
+- 💞️ I’m looking to collaborate on Data Science for management decision projects 
 - 📫 How to reach me ...
 
 <!---
